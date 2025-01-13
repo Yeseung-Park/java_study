@@ -8,7 +8,6 @@ public class Scope1 {
             System.out.println("if m = " + m);
             System.out.println("if x = " + x);
         }
-
 //        System.out.println("main x = " + x);
         System.out.println("main m = " + m);
     }
